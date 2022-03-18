@@ -1,2 +1,2 @@
 # odin-recipes
-Site de recetas
+página con index que tendrá enlaces a algunas recetas
